@@ -1,0 +1,30 @@
+input {
+    outline: none;
+    border: 2px solid #5d0cff;
+    padding: 14px 32px 14px 16px;
+    background: transparent;
+    width: 400px;
+    border-radius: 4px 0 0 4px;
+    color: white;
+  }
+  button {
+    background: transparent;
+    border: 2px solid #fff;
+    color: #fff;
+    width: 80px;
+    height: 40px;
+    transition: all 0.5s;
+  }
+  .addbutton{
+    outline: none;
+    border: none;
+    padding: 16px;
+    background: linear-gradient(
+      90deg,
+      rgba(93, 12, 255, 1) 0%,
+      rgba(155, 0, 250, 1) 100%
+    );
+    color: #fff;
+    border-radius: 0 4px 4px 0;
+  }
+  
